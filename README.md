@@ -73,7 +73,7 @@ Identifies low-performing categories.<br>
 Supports menu optimization.
 
 ### 🏆 Top 5 Best-Selling Pizzas :
-Ranked by:<br>
+Ranked by <br>
 Revenue<br>
 Quantity<br>
 Orders<br>
