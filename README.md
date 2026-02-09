@@ -18,7 +18,7 @@ Build interactive dashboards for decision-making.
 Dataset: pizza_sales.csv
 
 ### Key Fields :
-Column Name	Description
+Column Name	Description<br>
 order_id	Unique identifier for each order
 pizza_id	Unique identifier for each pizza
 pizza_name	Name of pizza
