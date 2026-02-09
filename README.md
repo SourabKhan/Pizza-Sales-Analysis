@@ -19,14 +19,14 @@ Dataset: pizza_sales.csv
 
 ### Key Fields :
 Column Name	Description<br>
-order_id	Unique identifier for each order
-pizza_id	Unique identifier for each pizza
-pizza_name	Name of pizza
-quantity	Number of pizzas per order
-total_price	Total transaction value
-date, time	Order timestamp
-pizza_category	Pizza category (Classic, Veggie, etc.)
-pizza_size	Pizza size (S, M, L, XL)
+order_id	Unique identifier for each order<br>
+pizza_id	Unique identifier for each pizza<br>
+pizza_name	Name of pizza<br>
+quantity	Number of pizzas per order<br>
+total_price	Total transaction value<br>
+date, time	Order timestamp<br>
+pizza_category	Pizza category (Classic, Veggie, etc.)<br>
+pizza_size	Pizza size (S, M, L, XL)<br>
 
 ### 📈 Key Performance Indicators (KPIs) :
 Total Revenue 
