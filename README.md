@@ -1,8 +1,8 @@
-🍕 # Pizza Sales Analysis
+# 🍕 Pizza Sales Analysis
 
-📌 **Project Title :**  Pizza Sales Analysis using SQL & Power BI
+## 📌 Project Title :  Pizza Sales Analysis using SQL & Power BI
 
-📊 **Project Overview :**
+### 📊 Project Overview :
 The Pizza Sales Analysis project focuses on analyzing transactional sales data from a pizza store to generate meaningful business insights.
 The objective is to help management make data-driven decisions related to sales, marketing, inventory, and operations using SQL analysis and Power BI dashboards.
 
